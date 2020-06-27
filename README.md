@@ -1,6 +1,6 @@
 # Deep Learning and Artifical Intelligence Summer School 
 
-## Session 9.00-12.00 am, July 1, 2020
+## DLAI3, Bangkok, Thailand (Session 9.00-12.00 am, July 1, 2020)
 
 ### 1. From Perceptron to Deep Learning
 
