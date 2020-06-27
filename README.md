@@ -1,6 +1,6 @@
 # Deep Learning and Artifical Intelligence Summer School 
 
-## Session 9.00-12.00 July 1, 2020
+## Session 9.00-12.00 am, July 1, 2020
 ### From Perceptron to Deep Learning
 
 ### Introduction to Image Processing
