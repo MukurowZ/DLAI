@@ -2,7 +2,7 @@
 
 ## Session 9.00-12.00 July 1, 2020
 ### From Perceptron to Deep Learning
-[Lecture Slides](https://github.com/phonamnuaisuk/DLAI/1IntroDLAI3(July2020).pdf)
+[Lecture Slides](https://github.com/phonamnuaisuk/DLAI/blob/master/1IntroDLAI3(July2020).pdf)
 ### Introduction to Image Processing
 
 ### Creating Deep Learning Models Using Tensorflow-Keras
