@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+# Deep Learning and Artifical Intelligence Summer School 
 
-You can use the [editor on GitHub](https://github.com/phonamnuaisuk/DLAI/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Session 9.00-12.00 July 1, 2020
+### From Perceptron to Deep Learning
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Introduction to Image Processing
 
-### Markdown
+### Creating Deep Learning Models Using Tensorflow-Keras
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
