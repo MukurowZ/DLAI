@@ -10,14 +10,14 @@
 ### 2. Introduction to Image Processing
 
 - [Slides](https://github.com/phonamnuaisuk/DLAI/blob/master/1IntroDLAI3(July2020).pdf)
-- [Practical 1](https://github.com/phonamnuaisuk/DLAI/blob/master/1IntroDLAI3(July2020).pdf)
+- [Practical 1](https://github.com/phonamnuaisuk/DLAI/blob/master/_ImageProcessingTFKeras.ipynb), [Images](https://github.com/phonamnuaisuk/DLAI/tree/master/imgs)
 
 ### 3. Creating Deep Learning Models Using Tensorflow-Keras
 
-- [Slides](https://github.com/phonamnuaisuk/DLAI/blob/master/1IntroDLAI3(July2020).pdf)
-- [Practical 2](https://github.com/phonamnuaisuk/DLAI/blob/master/1IntroDLAI3(July2020).pdf)
+- [Slides](https://github.com/phonamnuaisuk/DLAI/blob/master/2ImageProcessingDLAI3.pdf)
+- [Practical 2](https://github.com/phonamnuaisuk/DLAI/blob/master/2ImageProcessingDLAI3.pdf), [Practical3](https://github.com/phonamnuaisuk/DLAI/blob/master/1IntroDLAI3(July2020).pdf)
 
-#### Relevant Resources
+#### Relevant Readings
 
 - [Inception](https://arxiv.org/abs/1409.4842)
 - [ImageNet](http://www.image-net.org/)
