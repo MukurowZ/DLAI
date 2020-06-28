@@ -22,6 +22,7 @@ OR git clone https://github.com/phonamnuaisuk/DLAI.git
 - [Slides](https://github.com/phonamnuaisuk/DLAI/blob/master/2ImageProcessingDLAI3.pdf)
 - [Practical 2](https://github.com/phonamnuaisuk/DLAI/blob/master/2ImageProcessingDLAI3.pdf), [Practical3](https://github.com/phonamnuaisuk/DLAI/blob/master/1IntroDLAI3(July2020).pdf)
 
+```
 #### Relevant Readings
 
 - [Inception](https://arxiv.org/abs/1409.4842)
@@ -32,3 +33,4 @@ OR git clone https://github.com/phonamnuaisuk/DLAI.git
 - [ResNet](https://arxiv.org/abs/1512.03385)
 - [TensorFlow](https://www.tensorflow.org/)
 - [VGG](https://arxiv.org/abs/1409.1556)
+```
