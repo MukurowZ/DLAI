@@ -19,11 +19,11 @@
 
 #### Relevant Resources
 
-- [Inception] (https://arxiv.org/abs/1409.4842)
-- [ImageNet] (http://www.image-net.org/)
-- [LeNet5] (http://yann.lecun.com/exdb/lenet/)
-- [Marr's Theory] (http://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/GOMES1/marr.html)
-- [NASNet] (https://arxiv.org/abs/1707.07012)
-- [ResNet] (https://arxiv.org/abs/1512.03385)
-- [TensorFlow] (https://www.tensorflow.org/)
-- [VGG] (https://arxiv.org/abs/1409.1556)
+- [Inception](https://arxiv.org/abs/1409.4842)
+- [ImageNet](http://www.image-net.org/)
+- [LeNet5](http://yann.lecun.com/exdb/lenet/)
+- [Marr's Theory](http://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/GOMES1/marr.html)
+- [NASNet](https://arxiv.org/abs/1707.07012)
+- [ResNet](https://arxiv.org/abs/1512.03385)
+- [TensorFlow](https://www.tensorflow.org/)
+- [VGG](https://arxiv.org/abs/1409.1556)
