@@ -25,7 +25,7 @@ OR git clone https://github.com/phonamnuaisuk/DLAI.git
 - [Practical 2](https://github.com/phonamnuaisuk/DLAI/blob/master/2ImageProcessingDLAI3.pdf), [Practical3](https://github.com/phonamnuaisuk/DLAI/blob/master/1IntroDLAI3(July2020).pdf)
 
 
-#### Relevant Readings
+## Further Readings
 
 - [Inception](https://arxiv.org/abs/1409.4842)
 - [ImageNet](http://www.image-net.org/)
