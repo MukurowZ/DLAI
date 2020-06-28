@@ -14,7 +14,7 @@ OR git clone https://github.com/phonamnuaisuk/DLAI.git
 
 ### 2. Introduction to Image Processing
 
-- [Slides](https://github.com/phonamnuaisuk/DLAI/blob/master/1IntroDLAI3(July2020).pdf)
+- [Slides](https://github.com/phonamnuaisuk/DLAI/blob/master/2ImageProcessingDLAI3.pdf)
 - [Practical 1](https://github.com/phonamnuaisuk/DLAI/blob/master/_ImageProcessingTFKeras.ipynb), [Images](https://github.com/phonamnuaisuk/DLAI/tree/master/imgs)
 
 ### 3. Creating Deep Learning Models Using Tensorflow-Keras
