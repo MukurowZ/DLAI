@@ -3,6 +3,11 @@
 ## DLAI3, Bangkok, Thailand (Session 9.00-12.00 am, July 1, 2020)
 ## Introduction to Deep Learning Workshop
 
+```
+Download zip from https://github.com/phonamnuaisuk/DLAI.git
+OR git clone https://github.com/phonamnuaisuk/DLAI.git
+```
+
 ### 1. From Perceptron to Deep Learning
 
 - [Slides](https://github.com/phonamnuaisuk/DLAI/blob/master/1IntroDLAI3(July2020).pdf)
