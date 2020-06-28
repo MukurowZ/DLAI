@@ -4,6 +4,8 @@
 ## Introduction to Deep Learning Workshop
 
 ```
+Get materials 
+==============
 Download zip from https://github.com/phonamnuaisuk/DLAI.git
 OR git clone https://github.com/phonamnuaisuk/DLAI.git
 ```
