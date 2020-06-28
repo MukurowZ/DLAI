@@ -17,3 +17,12 @@
 - [Slides](https://github.com/phonamnuaisuk/DLAI/blob/master/1IntroDLAI3(July2020).pdf)
 - [Practical 2](https://github.com/phonamnuaisuk/DLAI/blob/master/1IntroDLAI3(July2020).pdf)
 
+#### Relevant Resources
+
+- [Inception] (https://arxiv.org/abs/1409.4842)
+- [ImageNet] (http://www.image-net.org/)
+- [LeNet5] (http://yann.lecun.com/exdb/lenet/)
+- [NASNet] (https://arxiv.org/abs/1707.07012)
+- [ResNet] (https://arxiv.org/abs/1512.03385)
+- [TensorFlow] (https://www.tensorflow.org/)
+- [VGG] (https://arxiv.org/abs/1409.1556)
