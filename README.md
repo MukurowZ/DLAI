@@ -21,9 +21,10 @@ OR git clone https://github.com/phonamnuaisuk/DLAI.git
 
 ### 3. Creating Deep Learning Models Using Tensorflow-Keras
 
-- [Slides](https://github.com/phonamnuaisuk/DLAI/blob/master/2ImageProcessingDLAI3.pdf)
-- [Practical 2](https://github.com/phonamnuaisuk/DLAI/blob/master/2ImageProcessingDLAI3.pdf), [Practical3](https://github.com/phonamnuaisuk/DLAI/blob/master/1IntroDLAI3(July2020).pdf)
+- [Slides](https://github.com/phonamnuaisuk/DLAI/blob/master/3TensorFlowKerasDLAI3.pdf)
+- [Practical 2](https://github.com/phonamnuaisuk/DLAI/blob/master/_ProgrammingConceptsTFKeras(1).ipynb), [Practical3](https://github.com/phonamnuaisuk/DLAI/blob/master/_ProgrammingConceptsTFKeras(2).ipynb)
 
+## More Examples
 
 ## Further Readings
 
