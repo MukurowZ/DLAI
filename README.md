@@ -26,8 +26,13 @@ OR git clone https://github.com/phonamnuaisuk/DLAI.git
 
 ## More Examples
 
+- [Multi-class example](https://www.tensorflow.org/tutorials/keras/classification)
+- [Multi-Label example](https://www.pyimagesearch.com/2018/05/07/multi-label-classification-with-keras/)
+
 ## Further Readings
 
+- [Multi-Class](https://en.wikipedia.org/wiki/Multiclass_classification)
+- [Multi-Label](https://en.wikipedia.org/wiki/Multi-label_classification)
 - [Inception](https://arxiv.org/abs/1409.4842)
 - [ImageNet](http://www.image-net.org/)
 - [LeNet5](http://yann.lecun.com/exdb/lenet/)
