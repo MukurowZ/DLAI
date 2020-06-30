@@ -1,7 +1,6 @@
 # Deep Learning and Artifical Intelligence Summer School 
 
 ## DLAI3, Bangkok, Thailand (Session 9.00-12.00 am, July 1, 2020)
-## Introduction to Deep Learning Workshop
 
 ```
 Get materials 
@@ -9,7 +8,7 @@ Get materials
 Download zip from https://github.com/phonamnuaisuk/DLAI.git
 OR git clone https://github.com/phonamnuaisuk/DLAI.git
 ```
-
+## Introduction to Deep Learning Workshop
 ### 1. From Perceptron to Deep Learning
 
 - [Slides](https://github.com/phonamnuaisuk/DLAI/blob/master/1IntroDLAI3(July2020).pdf)
